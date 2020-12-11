@@ -1,2 +1,2 @@
 # C-Programming_projects
-Traffic Signal implementation using scheduling algorithm(Round Robin). 
+This repository contains projects performed in C programming language.
